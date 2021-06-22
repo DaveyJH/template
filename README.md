@@ -5,65 +5,91 @@
 ## Repository
 <!-- [repoLocation](repoLocation) -->
 ***
+
 ## Table of Contents
-- [Objective](#Objective)
-- [Brief](#Brief)
-- [UX &#8722; User Experience Design](#UX-&#8722;-User-Experience-Design)
-- [Initial Concept](#Initial-Concept)
-    - [Wireframes](#Wireframes)
-        - [All Wireframes - Separate Document](./readme-content/wireframes.md)
-    - [Colour Scheme](#Colour-Scheme)
-    - [Typography](#Typography)
-    - [Imagery](#Imagery)
-- [Features](#Features)
-    - [Existing Features](#Existing-Features)
-    - [Features Left to Implement](#Features-Left-to-Implement)
-- [Technologies Used](#Technologies-Used)
-- [Testing](#Testing)
-    - [Validation Results - Separate Document](./readme-content/w3c.md)
-- [Bugs](#Bugs)
-    - [Current](#Current)
-    - [Resolved](#Resolved)
-- [Development](#Development)
-- [Deployment](#Deployment)
-- [Credits](#Credits)
-    - [Content](#Content)
-    - [Media](#Media)
-    - [Acknowledgements](#Acknowledgements)
-- [Personal Development](#Personal-Development)
+
+- [Name of project](#name-of-project)
+  - [Live Site](#live-site)
+  - [Repository](#repository)
+  - [Table of Contents](#table-of-contents)
+  - [Objective](#objective)
+  - [Brief](#brief)
+    - [nameOfSite](#nameofsite)
+  - [UX &#8722; User Experience Design](#ux--user-experience-design)
+    - [User Requirements](#user-requirements)
+    - [Initial Concept](#initial-concept)
+      - [Wireframes](#wireframes)
+      - [Colour Scheme](#colour-scheme)
+      - [Typography](#typography)
+      - [Imagery](#imagery)
+  - [Features](#features)
+    - [Existing Features](#existing-features)
+    - [Features Left to Implement](#features-left-to-implement)
+  - [Technologies Used](#technologies-used)
+  - [Testing](#testing)
+  - [Bugs](#bugs)
+    - [Current](#current)
+    - [Resolved](#resolved)
+  - [Development](#development)
+  - [Deployment](#deployment)
+  - [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
+    - [Acknowledgements](#acknowledgements)
+    - [Personal Development](#personal-development)
+
 ***
+
 ## Objective
+
+Some text here
 <!-- objective description here -->
-**The needs within this project are not genuine and are made purely for the purpose of completing my Code Institute project**
+***The needs within this project are not genuine and are made purely for the purpose of completing my Code Institute project***
+
 ***
+
 ## Brief
-### **nameOfSite**
+
+### nameOfSite
 <!-- brief description of goals and requirements -->
 ***
+
 ## UX &#8722; User Experience Design
+
 ### User Requirements
+
 Some example user stories which will affect the design
 
 <!-- user stories here -->
 ***
+
 ### Initial Concept
+
 <!-- concept here -->
 #### Wireframes
 <!-- wireframes here -->
 <!-- *See [here](./readme-content/wireframes.md#tablet) for other device types* -->
 ***
+
 #### Colour Scheme
+
 <!-- colour scheme, remember to contrast check!!! -->
 ***
+
 #### Typography
+
 <!-- typography -->
 ***
+
 #### Imagery
+
 <!-- imagery -->
 ***
+
 ## Features
- 
+
 ### Existing Features
+
 <!-- - Feature 1 - allows users X to achieve Y, by having them fill out Z -->
 <!-- 1. feature1
 >*"User... **story quote**"*
@@ -78,7 +104,9 @@ F1
 -->
 F2
 ***
+
 ### Features Left to Implement
+
 <!-- features left to implement -->
 <!-- 1. Explain desired feature 1
   - *Notes regarding feature*
@@ -87,13 +115,17 @@ F2
   - *Notes regarding feature*
   - Explanation of feature need etc. -->
 ***
+
 ## Technologies Used
+
 <!-- tech used -->
 <!-- - *[techNameOne](techURL)*
        - Description -->
 <!-- - *[techNameTwo](techURL)*
        - Description -->
+
 ## Testing
+
 <!-- explain testing
 ? item tested
 ? expected result
@@ -107,8 +139,11 @@ look at daisy's testing documentation and [webinar](https://us02web.zoom.us/rec/
 
 <!-- validation of html, css and script. -->
 <!-- lighthouse testing -->
+
 ## Bugs
+
 ### Current
+
 <!-- current bugs -->
 
 <!-- - bugOne explanation
@@ -119,7 +154,9 @@ look at daisy's testing documentation and [webinar](https://us02web.zoom.us/rec/
 
 *notes on explanation* -->
 ***
+
 ### Resolved
+
 <!-- resolved bugs -->
 <!-- 1. bugOne
 
@@ -133,10 +170,14 @@ look at daisy's testing documentation and [webinar](https://us02web.zoom.us/rec/
 
 *Commit - **[sha](commit link with highlighted lines)** - explanation of fix* -->
 ***
+
 ## Development
+
 <!-- section missed in first project. 
 !describe development process -->
+
 ## Deployment
+
 <!-- !check this section, may need adjusting as using additional languages -->
 
 <!-- **Github Pages**
@@ -165,6 +206,7 @@ https://daveyjh.github.io/ci-portfolio-one-v4/
 
 The site is now live and operational -->
 ***
+
 ## Credits
 
 ### Content
@@ -177,5 +219,7 @@ The site is now live and operational -->
 <!-- - acknowledge a, found at [b](bURL), for c -->
 <!-- - acknowledge d, found at [e](eURL), for f -->
 ***
+
 ### Personal Development
+
 <!-- notes -->
